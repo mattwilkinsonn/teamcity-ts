@@ -1,6 +1,6 @@
 {
   "name": "teamcity-ts",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "author": "Matt Wilkinson <mattwilki17@gmail.com>",
   "license": "MIT",
   "main": "lib/index.js",
