@@ -1,13 +1,23 @@
 {
   "name": "teamcity-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Matt Wilkinson <mattwilki17@gmail.com>",
   "license": "MIT",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "test": "jest",
     "build": "tsc"
   },
+  "keywords": [
+    "teamcity",
+    "typescript",
+    "jetbrains",
+    "teamcity-ts"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mattwilkinsonn/teamcity-ts"
