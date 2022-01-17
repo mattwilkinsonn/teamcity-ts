@@ -1,11 +1,10 @@
 # TeamCity-TS
 
-![Latest Release](https://img.shields.io/github/v/release/mattwilkinsonn/teamcity-ts?color=success&include_prereleases)
-![Build](https://img.shields.io/github/workflow/status/mattwilkinsonn/teamcity-ts/Publish/main)
-![Issues](https://img.shields.io/github/issues/mattwilkinsonn/teamcity-ts)
-![Stars](https://img.shields.io/github/stars/mattwilkinsonn/teamcity-ts)
-![License](https://img.shields.io/github/license/mattwilkinsonn/teamcity-ts)
-
+[![Latest Release](https://img.shields.io/github/v/release/mattwilkinsonn/teamcity-ts?color=success&include_prereleases)](https://github.com/mattwilkinsonn/teamcity-ts/releases)
+[![Build](https://img.shields.io/github/workflow/status/mattwilkinsonn/teamcity-ts/Publish/main)](https://github.com/mattwilkinsonn/teamcity-ts/actions/workflows/publish.yml)
+[![Issues](https://img.shields.io/github/issues/mattwilkinsonn/teamcity-ts)](https://github.com/mattwilkinsonn/teamcity-ts/issues)
+[![Stars](https://img.shields.io/github/stars/mattwilkinsonn/teamcity-ts)][https://github.com/mattwilkinsonn/teamcity-ts]
+[![License](https://img.shields.io/github/license/mattwilkinsonn/teamcity-ts)](https://github.com/mattwilkinsonn/teamcity-ts/blob/main/LICENSE)
 
 TeamCity client for TypeScript (Node.js). Uses [got](https://github.com/sindresorhus/got) to make requests, and [date-fns](https://date-fns.org/) to transform dates to and from the TeamCity required format.
 
