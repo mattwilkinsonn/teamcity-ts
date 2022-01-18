@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/mattwilkinsonn/teamcity-ts)](https://github.com/mattwilkinsonn/teamcity-ts)
 [![License](https://img.shields.io/github/license/mattwilkinsonn/teamcity-ts)](https://github.com/mattwilkinsonn/teamcity-ts/blob/main/LICENSE)
 
-[NPM](https://www.npmjs.com/package/teamcity-ts) [GitHub](https://github.com/mattwilkinsonn/teamcity-ts]
+[NPM](https://www.npmjs.com/package/teamcity-ts) [GitHub](https://github.com/mattwilkinsonn/teamcity-ts)
 
 TeamCity client for TypeScript (Node.js). Uses [got](https://github.com/sindresorhus/got) to make requests, and [date-fns](https://date-fns.org/) to transform dates to and from the TeamCity required format.
 
