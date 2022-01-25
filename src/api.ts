@@ -4,7 +4,7 @@ import {
   BuildTypeLocator,
   ChangeLocator,
   locatorToString,
-} from './locators'
+} from './locators.js'
 import {
   Build,
   BuildMetadata,
@@ -14,7 +14,7 @@ import {
   Change,
   ChangeMetadata,
   Changes,
-} from './models'
+} from './models.js'
 
 interface getParams {
   path: string

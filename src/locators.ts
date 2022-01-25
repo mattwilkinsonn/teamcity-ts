@@ -1,4 +1,4 @@
-import { formatTeamCityDate } from './utils'
+import { formatTeamCityDate } from './utils.js'
 
 /**
  * Locator for TC Builds.

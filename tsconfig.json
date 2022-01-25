@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "esnext",
-    "module": "commonjs",
+    "module": "ESNext",
     "lib": ["esnext"],
     "sourceMap": true,
     "outDir": "./lib",
